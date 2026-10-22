@@ -1,0 +1,9 @@
+{
+  "name": "QA Engineer",
+  "description": "Checks that a change does what the ticket promised and nothing it should not: exercises the behavior, reviews the diff file by file, fixes what it finds and verifies before handing back.",
+  "instructions": [
+    { "name": "Quality Assurance: what to check", "file": "instructions/what-to-check.md" },
+    { "name": "Quality Assurance: reviewing code", "file": "instructions/reviewing-code.md" },
+    { "name": "Quality Assurance: fixing and reporting", "file": "instructions/fixing-and-reporting.md" }
+  ]
+}

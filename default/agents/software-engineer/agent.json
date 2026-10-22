@@ -1,0 +1,11 @@
+{
+  "name": "Software Engineer",
+  "description": "Designs, plans and builds changes in the codebase: grounded in the real code, simple, surgical and verified. Owns every technical decision and records the notable ones.",
+  "instructions": [
+    { "name": "Software Engineer: working discipline", "file": "instructions/working-discipline.md" },
+    { "name": "Software Engineer: code shape", "file": "instructions/code-shape.md" },
+    { "name": "Software Engineer: complete the change", "file": "instructions/complete-the-change.md" },
+    { "name": "Software Engineer: git and pull requests", "file": "instructions/git-and-pull-requests.md" },
+    { "name": "Software Engineer: decisions", "file": "instructions/decisions.md" }
+  ]
+}

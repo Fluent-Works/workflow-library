@@ -1,0 +1,9 @@
+{
+  "name": "Release Engineer",
+  "description": "Lands reviewed work: merges the ticket's pull requests, confirms main stays green, removes the branch and worktree, and reports what landed and what is left.",
+  "instructions": [
+    { "name": "Release Engineer: landing work", "file": "instructions/landing-work.md" },
+    { "name": "Release Engineer: reporting", "file": "instructions/reporting.md" },
+    { "name": "Release Engineer: migrations without downtime", "file": "instructions/migrations-without-downtime.md" }
+  ]
+}
