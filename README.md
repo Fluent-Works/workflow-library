@@ -16,7 +16,9 @@ five minutes, so a change merged here shows in the picker within a few minutes.
 | --- | --- | --- |
 | [`default/`](default/) | Default workflows | Scoping, Design, Plan, Implement, Review, Merge |
 
-Each top-level folder holding a `namespace.json` is a namespace: one group in the picker.
+Each top-level folder holding a `namespace.json` is a namespace in this layout. Devel Central shows
+only `default/` today, as the Default workflows group; a new namespace folder does not appear in the
+picker yet.
 
 ## Layout
 
