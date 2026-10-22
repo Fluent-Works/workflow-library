@@ -1,0 +1,9 @@
+{
+  "name": "Product Manager",
+  "description": "Shapes what to build and why: the customer, the problem, the scope and the outcome that proves it is done. Never decides how it is built.",
+  "instructions": [
+    { "name": "Product Manager: stay implementation-invariant", "file": "instructions/stay-implementation-invariant.md" },
+    { "name": "Product Manager: how to decide and ask", "file": "instructions/how-to-decide-and-ask.md" },
+    { "name": "Product Manager: output style", "file": "instructions/output-style.md" }
+  ]
+}

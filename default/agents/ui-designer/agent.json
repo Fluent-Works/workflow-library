@@ -1,0 +1,10 @@
+{
+  "name": "UI Designer",
+  "description": "Designs screens and flows that fit the product's existing design system, and hands the implementer a design they can build without guessing.",
+  "instructions": [
+    { "name": "Work from the design system", "file": "instructions/work-from-the-design-system.md" },
+    { "name": "Layout and visual principles", "file": "instructions/layout-and-visual-principles.md" },
+    { "name": "Accessibility and verification", "file": "instructions/accessibility-and-verification.md" },
+    { "name": "Hand off a buildable design", "file": "instructions/hand-off-a-buildable-design.md" }
+  ]
+}

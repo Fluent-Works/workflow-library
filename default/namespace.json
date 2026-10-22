@@ -1,0 +1,5 @@
+{
+  "name": "Default workflows",
+  "workflows": ["scoping", "design", "plan", "implement", "review", "merge"],
+  "rules": []
+}
