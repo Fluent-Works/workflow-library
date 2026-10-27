@@ -1,5 +1,22 @@
 {
   "name": "Default workflows",
-  "workflows": ["scoping", "design", "plan", "implement", "review", "merge"],
-  "rules": []
+  "workflows": ["scoping", "design", "plan", "implement", "review", "functional-test", "merge"],
+  "rules": [],
+  "templates": [
+    {
+      "key": "software-development",
+      "name": "Software development",
+      "description": "From scope to merge: each column after Backlog runs one workflow.",
+      "columns": [
+        { "name": "Backlog", "type": "backlog" },
+        { "name": "Scope", "type": "started", "workflow": "scoping" },
+        { "name": "UI design", "type": "started", "workflow": "design" },
+        { "name": "Plan", "type": "started", "workflow": "plan" },
+        { "name": "Implement", "type": "started", "workflow": "implement" },
+        { "name": "Code review", "type": "started", "workflow": "review" },
+        { "name": "Functional test", "type": "started", "workflow": "functional-test" },
+        { "name": "Merge", "type": "completed", "workflow": "merge" }
+      ]
+    }
+  ]
 }
